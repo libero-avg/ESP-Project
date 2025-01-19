@@ -1,6 +1,6 @@
 # ESP Integration and C# Database Practice Project
 
-This project is designed to provide hands-on practice with C# programming and database management. It incorporates fundamental mobile application functionalities, alongside integration with ESP devices for demonstrating IoT capabilities. The application will be showcased to Balazs as a practical example of these technologies in action.
+This project is being developed by two friends, with a shared passion for learning and innovation. A pre-configured database will be included to simplify setup and testing. While the project heavily uses **C#**, **C++** also plays a significant role, particularly in the firmware development for the ESP devices.
 
 ## Features
 
@@ -41,10 +41,16 @@ This project is designed to provide hands-on practice with C# programming and da
 
 ---
 
+## Installation
+
 ### Prerequisites:
 
 - .NET SDK installed.
 - Visual Studio or another C# IDE.
 - ESP board with necessary drivers.
 
+### Steps:
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/esp-csharp-project.git
