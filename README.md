@@ -41,16 +41,10 @@ This project is designed to provide hands-on practice with C# programming and da
 
 ---
 
-## Installation
-
 ### Prerequisites:
 
 - .NET SDK installed.
 - Visual Studio or another C# IDE.
 - ESP board with necessary drivers.
 
-### Steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/esp-csharp-project.git
