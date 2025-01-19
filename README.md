@@ -1,54 +1,56 @@
-ESP Integration and C# Database Practice Project
+# ESP Integration and C# Database Practice Project
 
 This project is designed to provide hands-on practice with C# programming and database management. It incorporates fundamental mobile application functionalities, alongside integration with ESP devices for demonstrating IoT capabilities. The application will be showcased to Balazs as a practical example of these technologies in action.
 
-Features
+## Features
 
-Core Functionalities:
+### Core Functionalities:
+- **User Authentication**:
+  - Account creation and login.
+  - Password management and recovery.
 
-User Authentication:
+- **Account Settings**:
+  - Modify personal details.
+  - Update security preferences.
 
-Account creation and login.
+### ESP Device Integration:
+- **Wi-Fi Scanning**:
+  - Initiate and display available networks from ESP devices.
 
-Password management and recovery.
+- **LED Control**:
+  - Turn LEDs on/off via the application.
 
-Account Settings:
+- **Sensor-Based Features** (Optional):
+  - Object detection using an external sensor connected to the ESP.
 
-Modify personal details.
+---
 
-Update security preferences.
+## Technology Stack
 
-ESP Device Integration:
+### Backend:
+- **C#**: Core language for application development.
+- **Database**: Microsoft SQL Server or SQLite for managing user data and device logs.
 
-Wi-Fi Scanning:
+### Frontend:
+- Basic GUI using Windows Forms or WPF.
+- Responsive design for seamless user experience.
 
-Initiate and display available networks from ESP devices.
+### Hardware:
+- ESP8266/ESP32 microcontroller.
+- Optional external sensor (e.g., ultrasonic proximity sensor).
 
-LED Control:
+---
 
-Turn LEDs on/off via the application.
+## Installation
 
-Sensor-Based Features (Optional):
+### Prerequisites:
 
-Object detection using an external sensor connected to the ESP.
+- .NET SDK installed.
+- Visual Studio or another C# IDE.
+- ESP board with necessary drivers.
 
-Technology Stack
+### Steps:
 
-Backend:
-
-C#: Core language for application development.
-
-Database: Microsoft SQL Server or SQLite for managing user data and device logs.
-
-Frontend:
-
-Basic GUI using Windows Forms or WPF.
-
-Responsive design for seamless user experience.
-
-Hardware:
-
-ESP8266/ESP32 microcontroller.
-
-Optional external sensor (e.g., ultrasonic proximity sensor).
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/esp-csharp-project.git
