@@ -1,6 +1,6 @@
 # 🚀 ESP Integration and C# Database Practice Project
 
-This project is designed to provide hands-on practice with **C# programming** and **database management**. It incorporates fundamental mobile application functionalities, alongside integration with ESP devices for demonstrating IoT capabilities. The application will be showcased to Balazs as a practical example of these technologies in action.
+This project is designed to provide hands-on practice with **C# programming** and **database management**.
 
 ✨ **Created by two friends** with a passion for learning and innovation. A pre-configured database is included to simplify setup and testing. The project uses **C#** extensively, with **C++** playing a key role in ESP firmware development.
 
