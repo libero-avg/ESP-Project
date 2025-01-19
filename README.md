@@ -40,7 +40,7 @@ This project is designed to provide hands-on practice with **C# programming** an
 - Responsive design for seamless user experience.
 
 ### 🔌 Hardware:
-- ESP8266/ESP32 microcontroller.
+- ESP32 microcontroller.
 - Optional external sensor (e.g., ultrasonic proximity sensor).
 
 ---
